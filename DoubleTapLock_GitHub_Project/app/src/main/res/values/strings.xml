@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Double Tap to Lock</string>
+    <string name="accessibility_description">Detects double taps to lock the screen. This service needs Accessibility permission.</string>
+</resources>
